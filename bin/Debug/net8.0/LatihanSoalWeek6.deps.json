@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LatihanSoalWeek6/1.0.0": {
+        "runtime": {
+          "LatihanSoalWeek6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LatihanSoalWeek6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

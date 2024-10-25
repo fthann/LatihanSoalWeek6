@@ -1,0 +1,14 @@
+C:\Users\Rado\LatihanSoalWeek6\bin\Debug\net8.0\LatihanSoalWeek6.exe
+C:\Users\Rado\LatihanSoalWeek6\bin\Debug\net8.0\LatihanSoalWeek6.deps.json
+C:\Users\Rado\LatihanSoalWeek6\bin\Debug\net8.0\LatihanSoalWeek6.runtimeconfig.json
+C:\Users\Rado\LatihanSoalWeek6\bin\Debug\net8.0\LatihanSoalWeek6.dll
+C:\Users\Rado\LatihanSoalWeek6\bin\Debug\net8.0\LatihanSoalWeek6.pdb
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\LatihanSoalWeek6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\LatihanSoalWeek6.AssemblyInfoInputs.cache
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\LatihanSoalWeek6.AssemblyInfo.cs
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\LatihanSoalWeek6.csproj.CoreCompileInputs.cache
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\LatihanSoalWeek6.dll
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\refint\LatihanSoalWeek6.dll
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\LatihanSoalWeek6.pdb
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\LatihanSoalWeek6.genruntimeconfig.cache
+C:\Users\Rado\LatihanSoalWeek6\obj\Debug\net8.0\ref\LatihanSoalWeek6.dll
